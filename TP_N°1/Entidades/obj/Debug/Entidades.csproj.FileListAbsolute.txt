@@ -1,0 +1,6 @@
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\TP_N°1\Entidades\obj\Debug\Entidades.pdb
