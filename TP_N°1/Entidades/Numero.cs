@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Numero
+    public class Numero
     {
         private double numero;
 
@@ -26,6 +26,11 @@ namespace Entidades
             this.SetNumero = strNumero;
         }
 
+        public string SetNumero
+        {
+            set { numero = ValidarNumero(value); }
+        }
+
         private double ValidarNumero(string strNumero)
         {
             double retorno = 0;
@@ -33,11 +38,6 @@ namespace Entidades
             double.TryParse(strNumero, out retorno);
 
             return retorno;
-        }
-
-        public string SetNumero
-        {
-            set { numero = ValidarNumero(value); }
         }
 
         private bool EsBinario(string binario)
@@ -59,16 +59,19 @@ namespace Entidades
         {
             string retorno = "Valor inválido";
             double numDecimal = 0;
+            int incrementoPotencia = 0;
 
             if (EsBinario(binario))
             {
-                for (int i = binario.Length - 1; i > 0; i--) //Recorro el array de derecha a izquierda
+                for (int i = binario.Length - 1; i >= 0; i--) //Recorro el array de derecha a izquierda
                 {
                     if (binario[i] == '1')
                     {
-                        numDecimal += Math.Pow(2, i); //utilizo i como incremento de potencia
+                        numDecimal += Math.Pow(2, incrementoPotencia);
                     }
+                    incrementoPotencia++;
                 }
+
                 retorno = numDecimal.ToString();
             }
 
@@ -91,7 +94,8 @@ namespace Entidades
 
         public string DecimalBinario(double numero)
         {
-            string retorno = "";
+            string retorno = String.Empty;
+            string auxBinario = String.Empty;
             int numDecimal = (int)numero;
 
             if (numDecimal > 0)
@@ -100,15 +104,25 @@ namespace Entidades
                 {
                     if (numDecimal % 2 == 0)
                     {
-                        String.Concat(retorno, "0");
+                        auxBinario = String.Concat(auxBinario, "0");
                     }
                     else
                     {
-                        String.Concat(retorno, "1");
+                        auxBinario = String.Concat(auxBinario, "1");
                     }
 
                     numDecimal = numDecimal / 2;
                 }
+
+                foreach (char invertirBinario in auxBinario)    //
+                {                                               //doy vuelta la cadena
+                    retorno = invertirBinario + retorno;        //
+                }                                               //
+
+            }
+            else if (numDecimal == 0)
+            {
+                retorno = "0";
             }
             else
             {
