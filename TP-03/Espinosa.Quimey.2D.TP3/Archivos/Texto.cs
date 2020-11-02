@@ -22,14 +22,20 @@ namespace Archivos
 
             try
             {
-                StreamWriter file = new StreamWriter(archivo);
-                file.Write(datos);
-                file.Close();
-                pudoGuardar = true;
+                if (!String.IsNullOrEmpty(archivo) && !String.IsNullOrEmpty(datos))
+                {
+                    using (StreamWriter sw = new StreamWriter(archivo, false))
+                    {
+                        sw.WriteLine(datos);
+                    }
+
+                    pudoGuardar = true;
+                }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw new ArchivosException(ex);
+
+                throw new ArchivosException("No se pudo guardar el archivo");
             }
 
             return pudoGuardar;
@@ -47,14 +53,20 @@ namespace Archivos
 
             try
             {
-                StreamReader file = new StreamReader(archivo);
-                datos = file.ReadToEnd();
-                file.Close();
-                pudoLeer = true;
+                datos = string.Empty;
+
+                if (File.Exists(archivo))
+                {
+                    using (StreamReader sr = new StreamReader(archivo))
+                    {
+                        datos = sr.ReadToEnd();
+                        pudoLeer = true;
+                    }
+                }
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                throw new ArchivosException(e);
+                throw new ArchivosException("No se pudo leer el archivo");
             }
 
             return pudoLeer;

@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 using System.Xml.Serialization;
 
 namespace Archivos
@@ -20,21 +21,28 @@ namespace Archivos
         /// <returns>Retorna true si pudo guardar, false si no</returns>
         public bool Guardar(string archivo, T datos)
         {
-            bool rtn = false;
+            bool pudoGuardar = false;
+
             try
             {
-                XmlSerializer s = new XmlSerializer(typeof(T));
-                StreamWriter f = new StreamWriter(archivo);
-                s.Serialize(f, datos);
-                f.Close();
-                rtn = true;
+                if (archivo != null)
+                {
+                    using (XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8))
+                    {
+                        XmlSerializer ser = new XmlSerializer(typeof(T));
+
+                        ser.Serialize(writer, datos);
+
+                        pudoGuardar = true;
+                    }
+                }
             }
             catch (Exception e)
             {
-                throw new ArchivosException(e);
+                throw new ArchivosException("Error al intentar guardar archivo xml");
             }
 
-            return rtn;
+            return pudoGuardar;
         }
 
         /// <summary>
@@ -45,22 +53,31 @@ namespace Archivos
         /// <returns>Retorna true si pudo leer, false si no</returns>
         public bool Leer(string archivo, out T datos)
         {
-            bool rtn = false;
+            bool pudoLeer = false;
+
+            datos = default(T);
 
             try
             {
-                XmlSerializer s = new XmlSerializer(typeof(T));
-                StreamReader f = new StreamReader(archivo);
-                datos = (T)s.Deserialize(f);
-                f.Close();
-                rtn = true;
+                if (File.Exists(archivo))
+                {
+                    using (XmlTextReader reader = new XmlTextReader(archivo))
+                    {
+                        XmlSerializer ser = new XmlSerializer(typeof(T));
+
+                        datos = (T)ser.Deserialize(reader);
+
+                        pudoLeer = true;
+                    }
+                }
             }
             catch (Exception e)
             {
-                throw new ArchivosException(e);
+
+                throw new ArchivosException("Error al intentar leer archivo xml");
             }
 
-            return rtn;
+            return pudoLeer;
         }
         #endregion
     }

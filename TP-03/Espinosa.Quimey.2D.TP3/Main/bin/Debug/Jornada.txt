@@ -5,7 +5,7 @@ NACIONALIDAD: Argentino
 LEGAJO NúMERO: 2
 CLASES DEL DIA: 
 Programacion
-Programacion
+Laboratorio
 
 
 ALUMNOS:
@@ -26,3 +26,4 @@ ESTADO DE CUENTA: AlDia
 TOMA CLASES DE Programacion
 
 <------------------------------------------------->
+

@@ -14,3 +14,19 @@ C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\Main\bin\Debug\EntidadesAbst
 C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Excepciones.pdb
 C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Archivos.pdb
 C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Clases Instanciables.dll
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Clases Instanciables.pdb
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\Quimey\Desktop\tp_laboratorio_2\TP-03\Espinosa.Quimey.2D.TP3\Main\obj\Debug\Main.pdb
