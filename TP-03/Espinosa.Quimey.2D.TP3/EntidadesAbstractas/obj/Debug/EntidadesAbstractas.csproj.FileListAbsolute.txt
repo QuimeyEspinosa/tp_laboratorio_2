@@ -1,0 +1,9 @@
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
