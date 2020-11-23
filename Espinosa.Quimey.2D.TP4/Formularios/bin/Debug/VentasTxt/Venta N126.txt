@@ -1,0 +1,7 @@
+Cliente: Sergio
+       N° Art: 11 | Percusion | Bombo | $600 | 4
+       N° Art: 4 | Percusion | Bongo | $50 | 3
+Total: $2550
+N° Venta: 126
+------------------------------------------------------------------------------
+

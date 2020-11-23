@@ -1,0 +1,9 @@
+Cliente: Ezequiel
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 5
+       N° Art: 5 | Cuerdas | Guitarra Criolla | $125 | 2
+       N° Art: 17 | Otros | Trombón | $380 | 5
+       N° Art: 1 | Cuerdas | Guitarra Electrica | $250 | 3
+Total: $3775
+N° Venta: 135
+------------------------------------------------------------------------------
+

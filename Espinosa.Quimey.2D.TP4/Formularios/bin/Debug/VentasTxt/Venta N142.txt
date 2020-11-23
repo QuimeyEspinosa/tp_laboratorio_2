@@ -1,0 +1,7 @@
+Cliente: Pepe
+       N° Art: 5 | Cuerdas | Guitarra Criolla | $125 | 3
+       N° Art: 18 | Cuerdas | Contrabajo | $460 | 3
+Total: $1755
+N° Venta: 142
+------------------------------------------------------------------------------
+

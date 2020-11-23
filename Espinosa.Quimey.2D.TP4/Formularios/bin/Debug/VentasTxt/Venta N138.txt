@@ -1,0 +1,10 @@
+Cliente: Gonzalo
+       N° Art: 7 | Cuerdas | Guitarra Acústica | $175 | 2
+       N° Art: 16 | Teclas | Sintetizador Yamaha | $500 | 3
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 3
+       N° Art: 5 | Cuerdas | Guitarra Criolla | $125 | 3
+       N° Art: 4 | Percusion | Bongo | $50 | 3
+Total: $2900
+N° Venta: 138
+------------------------------------------------------------------------------
+

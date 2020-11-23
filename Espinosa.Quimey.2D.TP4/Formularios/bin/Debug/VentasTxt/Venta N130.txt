@@ -1,0 +1,9 @@
+Cliente: Julieta
+       N° Art: 3 | Teclas | Sintetizador Midi | $300 | 2
+       N° Art: 8 | Teclas | Piano | $750 | 4
+       N° Art: 7 | Cuerdas | Guitarra Acústica | $175 | 1
+       N° Art: 12 | Percusion | Caja  | $200 | 5
+Total: $4775
+N° Venta: 130
+------------------------------------------------------------------------------
+

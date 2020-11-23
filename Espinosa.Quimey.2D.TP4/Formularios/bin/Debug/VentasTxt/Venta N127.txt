@@ -1,0 +1,8 @@
+Cliente: Alejo
+       N° Art: 4 | Percusion | Bongo | $50 | 6
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 5
+       N° Art: 12 | Percusion | Caja  | $200 | 1
+Total: $725
+N° Venta: 127
+------------------------------------------------------------------------------
+

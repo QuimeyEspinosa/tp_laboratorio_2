@@ -1,0 +1,4 @@
+La colección se modificó después de crear una instancia del enumerador.
+Ocurrió el 22-11-2020
+a las 0h-12m-48s-363ms
+

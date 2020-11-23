@@ -1,0 +1,7 @@
+Cliente: Daniela
+       N° Art: 20 | Cuerdas | Charango | $350 | 3
+       N° Art: 8 | Teclas | Piano | $750 | 1
+Total: $1800
+N° Venta: 139
+------------------------------------------------------------------------------
+

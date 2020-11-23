@@ -1,0 +1,8 @@
+Cliente: Santiago
+       N° Art: 4 | Percusion | Bongo | $50 | 4
+       N° Art: 10 | Otros | Flauta | $25 | 5
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 5
+Total: $550
+N° Venta: 136
+------------------------------------------------------------------------------
+

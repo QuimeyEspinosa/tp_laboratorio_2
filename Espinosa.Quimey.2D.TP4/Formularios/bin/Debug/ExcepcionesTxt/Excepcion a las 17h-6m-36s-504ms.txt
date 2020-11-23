@@ -1,0 +1,4 @@
+El archivo xml que se intenta leer no existe
+Ocurrió el 21-11-2020
+a las 17h-6m-36s-504ms
+

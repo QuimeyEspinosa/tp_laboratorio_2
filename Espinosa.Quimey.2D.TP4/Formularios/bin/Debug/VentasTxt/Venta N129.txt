@@ -1,0 +1,10 @@
+Cliente: Elias
+       N° Art: 5 | Cuerdas | Guitarra Criolla | $125 | 2
+       N° Art: 4 | Percusion | Bongo | $50 | 2
+       N° Art: 12 | Percusion | Caja  | $200 | 2
+       N° Art: 17 | Otros | Trombón | $380 | 4
+       N° Art: 3 | Teclas | Sintetizador Midi | $300 | 4
+Total: $3470
+N° Venta: 129
+------------------------------------------------------------------------------
+

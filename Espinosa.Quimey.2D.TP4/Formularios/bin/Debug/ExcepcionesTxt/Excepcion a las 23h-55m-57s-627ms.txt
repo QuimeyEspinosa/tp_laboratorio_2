@@ -1,0 +1,4 @@
+No pudo concretarse la venta porque se acabó el stock del producto solicitadoSystem.Collections.Generic.List`1[Entidades.Producto]
+Ocurrió el 20-11-2020
+a las 23h-55m-57s-627ms
+

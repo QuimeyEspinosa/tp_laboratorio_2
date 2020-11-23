@@ -1,0 +1,9 @@
+Cliente: Ludmila
+       N° Art: 7 | Cuerdas | Guitarra Acústica | $175 | 2
+       N° Art: 1 | Cuerdas | Guitarra Electrica | $250 | 5
+       N° Art: 17 | Otros | Trombón | $380 | 4
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 3
+Total: $3255
+N° Venta: 131
+------------------------------------------------------------------------------
+

@@ -1,0 +1,9 @@
+Cliente: Nehuen
+       N° Art: 18 | Cuerdas | Contrabajo | $460 | 6
+       N° Art: 3 | Teclas | Sintetizador Midi | $300 | 5
+       N° Art: 10 | Otros | Flauta | $25 | 1
+       N° Art: 15 | Otros | Trompeta | $145 | 1
+Total: $4430
+N° Venta: 120
+------------------------------------------------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Sergio
+       N° Art: 1 | Cuerdas | Guitarra Electrica | $250 | 2
+       N° Art: 10 | Otros | Flauta | $25 | 4
+       N° Art: 20 | Cuerdas | Charango | $350 | 1
+Total: $950
+N° Venta: 145
+------------------------------------------------------------------------------
+

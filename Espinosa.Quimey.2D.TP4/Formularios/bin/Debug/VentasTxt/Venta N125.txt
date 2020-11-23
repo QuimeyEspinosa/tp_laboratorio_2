@@ -1,0 +1,8 @@
+Cliente: Joaquin
+       N° Art: 7 | Cuerdas | Guitarra Acústica | $175 | 11
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 4
+       N° Art: 8 | Teclas | Piano | $750 | 2
+Total: $4125
+N° Venta: 125
+------------------------------------------------------------------------------
+

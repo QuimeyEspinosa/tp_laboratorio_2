@@ -1,0 +1,9 @@
+Cliente: Santiago
+       N° Art: 20 | Cuerdas | Charango | $350 | 4
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 2
+       N° Art: 1 | Cuerdas | Guitarra Electrica | $250 | 5
+       N° Art: 16 | Teclas | Sintetizador Yamaha | $500 | 1
+Total: $3500
+N° Venta: 134
+------------------------------------------------------------------------------
+

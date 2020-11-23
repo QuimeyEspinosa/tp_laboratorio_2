@@ -1,0 +1,10 @@
+Cliente: Santiago
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 2
+       N° Art: 8 | Teclas | Piano | $750 | 5
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 4
+       N° Art: 20 | Cuerdas | Charango | $350 | 2
+       N° Art: 10 | Otros | Flauta | $25 | 5
+Total: $5365
+N° Venta: 132
+------------------------------------------------------------------------------
+

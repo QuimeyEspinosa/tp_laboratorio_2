@@ -1,0 +1,8 @@
+Cliente: Ezequiel
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 9
+       N° Art: 17 | Otros | Trombón | $380 | 3
+       N° Art: 3 | Teclas | Sintetizador Midi | $300 | 3
+Total: $2445
+N° Venta: 140
+------------------------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+Cliente: Alejo
+       N° Art: 19 | Teclas | Piano De Cola | $45 | 5
+       N° Art: 7 | Cuerdas | Guitarra Acústica | $175 | 5
+Total: $1100
+N° Venta: 124
+------------------------------------------------------------------------------
+

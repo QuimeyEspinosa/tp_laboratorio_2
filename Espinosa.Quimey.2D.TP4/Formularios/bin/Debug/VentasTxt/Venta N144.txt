@@ -1,0 +1,9 @@
+Cliente: Gonzalo
+       N° Art: 4 | Percusion | Bongo | $50 | 5
+       N° Art: 1 | Cuerdas | Guitarra Electrica | $250 | 1
+       N° Art: 10 | Otros | Flauta | $25 | 1
+       N° Art: 5 | Cuerdas | Guitarra Criolla | $125 | 3
+Total: $900
+N° Venta: 144
+------------------------------------------------------------------------------
+

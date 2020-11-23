@@ -1,0 +1,14 @@
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Test.exe
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Test.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Archivos.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Excepciones.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Archivos.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\bin\Debug\Excepciones.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\obj\Debug\Test.exe
+C:\Users\Quimey\source\repos\Espinosa.Quimey.2D.TP4\Test\obj\Debug\Test.pdb

@@ -1,0 +1,10 @@
+Cliente: Ludmila
+       N° Art: 20 | Cuerdas | Charango | $350 | 5
+       N° Art: 15 | Otros | Trompeta | $145 | 3
+       N° Art: 2 | Percusion | Batería Acústica | $175 | 1
+       N° Art: 16 | Teclas | Sintetizador Yamaha | $500 | 2
+       N° Art: 3 | Teclas | Sintetizador Midi | $300 | 2
+Total: $3960
+N° Venta: 123
+------------------------------------------------------------------------------
+

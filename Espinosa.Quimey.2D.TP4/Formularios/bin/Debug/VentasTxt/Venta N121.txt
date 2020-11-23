@@ -1,0 +1,8 @@
+Cliente: Juliana
+       N° Art: 17 | Otros | Trombón | $380 | 10
+       N° Art: 12 | Percusion | Caja  | $200 | 2
+       N° Art: 4 | Percusion | Bongo | $50 | 4
+Total: $4400
+N° Venta: 121
+------------------------------------------------------------------------------
+

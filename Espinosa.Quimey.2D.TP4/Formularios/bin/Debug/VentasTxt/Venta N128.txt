@@ -1,0 +1,8 @@
+Cliente: Ana
+       N° Art: 12 | Percusion | Caja  | $200 | 4
+       N° Art: 17 | Otros | Trombón | $380 | 2
+       N° Art: 16 | Teclas | Sintetizador Yamaha | $500 | 1
+Total: $2060
+N° Venta: 128
+------------------------------------------------------------------------------
+

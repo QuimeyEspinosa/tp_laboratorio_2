@@ -1,0 +1,4 @@
+Error al intentar leer archivo xml
+Ocurrió el 21-11-2020
+a las 16h-57m-2s-929ms
+
